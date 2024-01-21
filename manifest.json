@@ -1,0 +1,14 @@
+{
+  "name": "Shubham's password generator",
+  "description": "chrome extension for generate random and strong password",
+  "version": "1.0",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "pass.png",
+      "48": "pass.png",
+      "128": "pass.png"
+    }
+  }
+}
